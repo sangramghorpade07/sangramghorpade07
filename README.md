@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ## Get in Touch
 - LinkedIn: [Your LinkedIn URL]
-- Email: [Your email address]
+- Email: [ sangramghorpade07@gmail.com ]
 
 Thanks for visiting my profile!
 ## Hi there 👋
