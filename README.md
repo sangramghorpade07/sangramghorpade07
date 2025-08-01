@@ -1,3 +1,28 @@
+# Hi, I'm Sangram Ghorpade 👋
+
+Welcome to my GitHub profile!
+
+## About Me
+- Passionate software developer with a keen interest in building efficient and scalable applications.
+- Skilled in [your main programming languages or technologies, e.g., Python, JavaScript, React].
+- Always eager to learn new technologies and improve my coding skills.
+- Currently exploring [mention any current learning or projects].
+
+## Skills
+- Programming Languages: Python, JavaScript, Java, C++
+- Frameworks & Libraries: React, Node.js, Express
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, VSCode
+
+## Projects
+- [Project Name](GitHub Link) - Short description of the project.
+- [Project Name](GitHub Link) - Short description of the project.
+
+## Get in Touch
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your email address]
+
+Thanks for visiting my profile!
 ## Hi there 👋
 
 <!--
